@@ -1,6 +1,6 @@
 # vawebsites
 
-> Create Portfolio for vawebsites
+> New Portfolio website for vawebsites
 
 ## Build Setup
 
