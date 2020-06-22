@@ -2,6 +2,8 @@
 
 > New Portfolio website for vawebsites
 
+Built using Nuxt.
+
 ## Build Setup
 
 ```bash
